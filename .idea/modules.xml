@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springboot-server.iml" filepath="$PROJECT_DIR$/springboot-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/springboot-server_main.iml" filepath="$PROJECT_DIR$/.idea/modules/springboot-server_main.iml" group="springboot-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/springboot-server_test.iml" filepath="$PROJECT_DIR$/.idea/modules/springboot-server_test.iml" group="springboot-server" />
+    </modules>
+  </component>
+</project>
