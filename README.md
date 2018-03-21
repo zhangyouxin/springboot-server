@@ -1,3 +1,5 @@
 ## Techs
 
-- Springboot 1.5
+- SpringBoot 1.5
+- Hibernate
+- Postgres
